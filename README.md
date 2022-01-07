@@ -1,1 +1,1 @@
-this is a little example of using flask, graphql and mongodb using graphene library
+this is a little example of flask, graphql and mongodb using graphene library
